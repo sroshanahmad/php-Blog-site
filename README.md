@@ -1,3 +1,3 @@
 # php
-php testing with Heroku  
+Blog site with Heroku  
   [Click here to see](https://php-deploy.herokuapp.com/)
